@@ -1,7 +1,5 @@
---[[ mikuHub  -  made by miku  (TQQ theme)
-     Build / convert / auto-farm helper with a lightweight PC + mobile UI.
-     Build engine based on the AutoBuilder script by SoPeRa; interface rewritten.
-     Run with your executor. Files go in:  <executor workspace>/mikuHub/
+--[[ mikuHub  -  made by miku 
+     Build / convert / auto-farm helper with a lightweight PC + mobile UI
 ]]
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
